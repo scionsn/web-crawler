@@ -57,7 +57,7 @@ npm install
 2. **Run the crawler**
 
 ```bash
-npm run crawler
+npm run crawl
 ```
 
 3. **View output**
@@ -66,8 +66,8 @@ Check the `output/` folder for saved product URLs and any failed links.
 
 ---
 
-## 🛠 Tech Stack
-
+## 🛠 Dependencies
+- `Node v20`
 - `puppeteer-extra` with Stealth Plugin
 - `p-limit` for concurrent crawling
 - `config` for environment management
