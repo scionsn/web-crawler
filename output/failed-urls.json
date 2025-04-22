@@ -1,6 +1,13 @@
 {
-  "https://www.tatacliq.com/swim-&-beachwear/c-msh1119": [],
-  "https://www.virgio.com/collections/top-wear-date": [],
-  "https://www.nykaafashion.com/men/c/6823": [],
-  "https://www.westside.com/collections/t-shirts-for-men": []
+  "https://www.nykaafashion.com/": [
+    "https://www.nykaafashion.com/designers/macmerise/c/6426",
+    "https://www.nykaafashion.com/c/1",
+    "https://www.nykaafashion.com/c/2",
+    "https://www.nykaafashion.com/designers/c/102",
+    "https://www.nykaafashion.com/designers/chumbak/c/7739",
+    "https://www.nykaafashion.com/boat-wireless-headphones/c/9499"
+  ],
+  "https://www.virgio.com/": [],
+  "https://www.westside.com/": [],
+  "https://www.tatacliq.com/": []
 }
