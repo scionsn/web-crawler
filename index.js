@@ -179,7 +179,6 @@ async function clickLoadMoreButton(page, selector, loadButtonInnerText) {
   const results = await Promise.allSettled(
     domainsConfig.map((domainInfo) =>
       limit(async () => {
-        // const { domainName } = domainInfo;
         const { domainName, productUrls, failedUrls } = await crawlSite(
           domainInfo
         );
