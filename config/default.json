@@ -1,0 +1,23 @@
+{
+  "domainsConfig": [
+    {
+      "domainName": "https://www.tatacliq.com/swim-&-beachwear/c-msh1119",
+      "loadButtonClassName": ".ShowMoreButtonPlp__button",
+      "loadButtonInnerText": "Show More Products"
+    },
+    {
+      "domainName": "https://www.virgio.com/collections/top-wear-date"
+    },
+    {
+      "domainName": "https://www.nykaafashion.com/men/c/6823"
+    },
+    {
+      "domainName": "https://www.westside.com/collections/t-shirts-for-men"
+    }
+  ],
+  "outputDir": "./output",
+  "maxScrollAttempts": 20,
+  "concurrencyLimit": 4,
+  "productFileName": "product-links.json",
+  "failedUrlsFileName": "failed-urls.json"
+}
