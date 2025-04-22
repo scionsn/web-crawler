@@ -1,18 +1,18 @@
 {
   "domainsConfig": [
     {
-      "domainName": "https://www.tatacliq.com/swim-&-beachwear/c-msh1119",
+      "domainName": "https://www.tatacliq.com/",
       "loadButtonClassName": ".ShowMoreButtonPlp__button",
       "loadButtonInnerText": "Show More Products"
     },
     {
-      "domainName": "https://www.virgio.com/collections/top-wear-date"
+      "domainName": "https://www.virgio.com/"
     },
     {
-      "domainName": "https://www.nykaafashion.com/men/c/6823"
+      "domainName": "https://www.nykaafashion.com/"
     },
     {
-      "domainName": "https://www.westside.com/collections/t-shirts-for-men"
+      "domainName": "https://www.westside.com/"
     }
   ],
   "outputDir": "./output",
