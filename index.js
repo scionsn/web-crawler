@@ -75,7 +75,6 @@ async function crawlSite(domainInfo) {
       );
 
       console.log(`[Found Links] ${links.length} links on ${url}`);
-      console.log("links are:", links);
 
       for (const link of links) {
         console.log(link);
